@@ -15,11 +15,11 @@ Projeto desenvolvido em Java utilizando os frameworks:
 
 Para executar/testar faça o clone do projeto. Em seguida acesse a pasta do projeto e rode o comando:
 
-**mvn clean package
+**mvn clean package**
 
 Acesse a pasta target e execute o projeto com o comando:
 
-**java -jar consulta-cep-1.0.jar
+**java -jar consulta-cep-1.0.jar**
 
 Exemplo de requisições:
 
