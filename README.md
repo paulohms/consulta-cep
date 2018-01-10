@@ -25,4 +25,4 @@ Exemplo de requisições:
 
 [http://localhost:8080/consultarPorCep?cep=38401048](http://localhost:8080/consultarPorCep?cep=38401048)
 
-[http://localhost:8080/consultarPorEndereco?endereco=Av João Naves](http://localhost:8080/consultarPorEndereco?endereco=Av João Naves)
+[http://localhost:8080/consultarPorEndereco?endereco=Av](http://localhost:8080/consultarPorEndereco?endereco=Av João Naves)
